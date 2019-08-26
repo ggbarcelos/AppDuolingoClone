@@ -1,4 +1,5 @@
-﻿using Prism;
+﻿using AppDuolingoClone.Views;
+using Prism;
 using Prism.DryIoc;
 using Prism.Ioc;
 using System;
